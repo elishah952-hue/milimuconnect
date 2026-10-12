@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Demo User",
+        "email": "demo@milimuconnect.ug",
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "role": "customer"
+    },
+    {
+        "id": 2,
+        "name": "elishah",
+        "email": "elishah952@gmail.com",
+        "password": "$2y$10$xFV5W4SKuactGf0EYMtEFOIzbYt6Z2t1aI.ACHdTPfCnJsrQM1KsK",
+        "role": "professional"
+    }
+]
